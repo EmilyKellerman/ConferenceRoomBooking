@@ -4,7 +4,7 @@ Sprint Goal:
 ## Attendees
 - Product Owner: Fancy van Zyle
 - Scrum Master: Boss de Klerk
-- Development Team: Ricky, Rick, John, Jane and Jennifer
+- Development Team: Ricky, Rick, John, Jane and Emily
 ## Velocity Target
 - 5 story points completion every week
 ## Selected User Stories
