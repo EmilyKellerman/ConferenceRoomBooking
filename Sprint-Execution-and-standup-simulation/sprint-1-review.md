@@ -4,7 +4,7 @@
 
 ## Completed Work
 | Story #  | Acceptance Criteria Met |
-| Story #1 | Acceptance Criteria Met |
+Story #1 | Acceptance Criteria Met |
 | Story #6 | Acceptance Criteria Met |
 | Story #3 | Acceptance Criteria Met |
 
