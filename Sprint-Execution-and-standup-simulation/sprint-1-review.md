@@ -4,6 +4,7 @@
 
 ## Completed Work
 | Story #  | Acceptance Criteria Met |
+| ------- | ------- |
 | Story #1 | Acceptance Criteria Met |
 | Story #2 | Acceptance Criteria Met |
 | Story #3 | Acceptance Criteria Met |
@@ -14,6 +15,7 @@
 
 ## Incomplete Work
 | Story #  | Reason | Next Action |
+| ------- | ------- | ------- |
 None
 
 ## Sprint Metrics

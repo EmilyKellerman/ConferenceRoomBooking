@@ -13,4 +13,5 @@ Participants: Tshepiso, Onthangaho, Rikhard, Emily
 
 ## Action Items
 | Action | Owner | When |
+| ------- | ------- | ------- |
 | Break Stories into smaller tasks for more spread workflow | Emily | Day before start of sprint 2 |
