@@ -1,15 +1,16 @@
 # Sprint 1 Retrospective
-Date:
-Participants:
+Date: [2026/01/16]
+Participants: Tshepiso, Onthangaho, Rikhard, Emily
 
 ## Start
-- Practices or behaviours to introduce next sprint
+- Pace the work fairly and evenly over the course of the planned sprint timeframe
 
 ## Stop
-- Practices or behaviours that hindered progress
+- Starting lower priority tasks before higher priority tasks have been completed
 
 ## Continue
-- Practices that worked well and should be maintained
+- Working on tasks that are independent from one another at the same time
 
 ## Action Items
 | Action | Owner | When |
+| Break Stories into smaller tasks for more spread workflow | Emily | Day before start of sprint 2 |
