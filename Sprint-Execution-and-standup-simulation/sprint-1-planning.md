@@ -8,6 +8,8 @@ Sprint Goal:
 ## Velocity Target
 - 5 story points completion every week
 ## Selected User Stories
+| Story # | Title | Story Points |
+| ------- | ------- | ------- |
 | Story #1 | As an employee I want to be able to book a conference room | 3 |
 | Story #2 | As an employee I want to view recurring meetings | 3 |
 | Story #3 | As an employee I want to filter the rooms by capacity | 1 |
